@@ -48,9 +48,8 @@ The original target variable is converted into a binary classification:
 - `heart_disease_model.pkl` — Saved trained machine learning model.
 
 ## Deployment
-The deployed application URL will be added here after successful deployment.
 
-**Live Application:** Pending deployment.
+**Live Application:** https://heart-disease-prediction-9kkj3m5yhybso8dfbp3t7u.streamlit.app/
 
 ## Disclaimer
 This project is intended for educational purposes only. Its predictions are not a medical diagnosis and must not be used as a substitute for professional medical advice.
